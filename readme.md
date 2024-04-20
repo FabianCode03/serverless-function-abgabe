@@ -1,5 +1,9 @@
 # Farbanalysetool
 
+## Link zur Serverless Funktion:
+
+https://serverless-funktion-abgabe.azurewebsites.net/api/ColorMixerCC
+
 ## Eingabe:
 
 color1: \<HEX Wert\>
